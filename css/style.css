@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #d32c2c;
+  color: #FFF;
+}
+.title {
+  margin-top: 20%;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 10px;
+  background-color: #aa0a0a;
+  text-align: center;
+}
